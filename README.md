@@ -1,7 +1,7 @@
 <strong>/* Hi! I'm Lucas Carvalho. Front-end developer 😄 */</strong>
 
 - 🔭 I’m currently working on: Front-End
-- 🌱 I’m currently learning: React and Bootstrap
+- 🌱 I’m currently learning: React and PHP
 - 😄 Pronouns: Him / His
 - 💻 Project in progress: https://github.com/LucasCarvalho23/portfolio-react
   
