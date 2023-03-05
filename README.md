@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: Web development
 - 🌱 I’m currently learning: React.js and PHP
 - 😄 Pronouns: Him / His
-- 💻 Project in progress: https://github.com/LucasCarvalho23/portfolio-react
+- 💻 Project in progress: https://github.com/LucasCarvalho23/udemy-web-dev
   
   ##
   
