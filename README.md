@@ -1,9 +1,9 @@
-<strong>/* Hi! I'm Lucas Carvalho and I'm web developer 😄 */</strong>
+<strong>/* Hi! I'm Lucas Carvalho and I'm Software developer 😄 */</strong>
 
-- 🔭 I’m currently working on: Web development
-- 🌱 I’m currently learning: React.js and PHP
+- 🔭 I’m currently working on: Software development
+- 🌱 I’m currently learning: Java and PHP
 - 😄 Pronouns: Him / His
-- 💻 Project in progress: https://github.com/LucasCarvalho23/udemy-web-dev
+- 💻 Project in progress: https://github.com/LucasCarvalho23/udemy-web-dev and https://github.com/LucasCarvalho23/Java-Course
   
   ##
   
@@ -14,6 +14,7 @@
   <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lucas-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="lucas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   ##
