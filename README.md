@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: Software development
 - 🌱 I’m currently learning: PHP and JavaScript
 - 😄 Pronouns: Him / His
-- 💻 Project in progress: https://github.com/LucasCarvalho23/udemy-web-dev and https://github.com/LucasCarvalho23/udemy-web-dev
+- 💻 Project in progress: https://github.com/LucasCarvalho23/udemy-web-dev
   
   ##
   
