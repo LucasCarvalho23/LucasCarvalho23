@@ -1,7 +1,7 @@
 <strong>/* Hi! I'm Lucas Carvalho and I'm Software developer 😄 */</strong>
 
 - 🔭 I’m currently working on: Software development
-- 🌱 I’m currently learning: PHP and JavaScript
+- 🌱 I’m currently learning: React and Java
 - 😄 Pronouns: Him / His
 - 💻 Portfolio: https://lucas.art.br
   
