@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: Software development
 - 🌱 I’m currently learning: React, Typescript and Java
 - 😄 Pronouns: Him / His
-- 💻 Portfolio: https://lucas.art.br
+- 💻 Portfolio: In Progress
   
   ##
   
